@@ -1,7 +1,7 @@
 {
     "origin":
         [
-            "#titles# #names#", "#names# #subtitles2#", "#itemnames# #subtitles2#", "#titles# #names#", "#titles# #names# #numbers#", "#titles# #names#", "#titles# #names#", "#titles# #names#", "Ultimate #names# Night", "#names#", "#titles# #names##subtitles#", "#titles# #names# #numbers##subtitles#", "#names##subtitles#", "#names# #numbers##subtitles#", "#titles2# #itemnames#", "#titles2# #itemnames##subtitles#", "#names2# has sex with #names2#", "#names# Pizza Tower mod", "#titles# #names# #numbers##subtitles##subtitles#","Five Nights at #names#"
+            "Deltarune chapter #numbers#", "#titles# #names#", "#names# #subtitles2#", "#itemnames# #subtitles2#", "#titles# #names#", "#titles# #names# #numbers#", "#titles# #names#", "#titles# #names#", "#titles# #names#", "Ultimate #names# Night", "#names#", "#titles# #names##subtitles#", "#titles# #names# #numbers##subtitles#", "#names##subtitles#", "#names# #numbers##subtitles#", "#titles2# #itemnames#", "#titles2# #itemnames##subtitles#", "#names2# has sex with #names2#", "#names# Pizza Tower mod", "#titles# #names# #numbers##subtitles##subtitles#","Five Nights at #names#"
         ],
     "titles":
         [
@@ -13,11 +13,11 @@
         ],
     "names":
         [
-            "alex.does.stuff's", "Mariuigi's", "danlopw's", "Zawro's", "Xycos'", "Nighthack's", "Goofball's", "Monika's", "Tyler's", "Aaron's", "@everyone's", "Mario's", "Peppino's", "Bridget's", "Buster's", "Wario's", "Bo Noise's", "Death of PizzaFuntime's", "The Doise's", "The Voice's", "Ooise's", "Peppino.xdelta's", "Paper Noise's", "Paper Mario's", "Pizza Tower's", "Scragfins's", "Roise TV's", "SERGEY's", "Pebbino's", "The Voise's", "The Foise's"
+            "danlopw's", "Nighthack's", "Goofball's", "Monika's", "Tyler's", "Aaron's", "@everyone's", "Mario's", "Peppino's", "Bridget's", "Buster's", "Wario's", "Bo Noise's", "Death of PizzaFuntime's", "The Doise's", "The Voice's", "Ooise's", "Peppino.xdelta's", "Paper Noise's", "Paper Mario's", "Pizza Tower's", "Scragfins's", "Roise TV's", "SERGEY's", "Pebbino's", "The Voise's", "The Foise's"
         ],
     "names2":
         [
-            "alex.does.stuff", "Mariuigi", "danlopw", "Zawro", "Xycos", "Nighthack", "Goofball", "Monika", "Tyler", "Aaron", "@everyone", "Mario", "Peppino", "Bridget", "Buster", "Wario", "Bo Noise", "Death of PizzaFuntime", "The Doise", "The Voice", "Ooise", "Peppino.xdelta", "Paper Noise", "Paper Mario", "Pizza Tower", "Scragfin", "Roise TV", "SERGEY", "Pebbino", "The Voise", "The Foise"
+             "danlopw", "Xycos", "Goofball", "Monika", "Tyler", "Aaron", "@everyone", "Mario", "Peppino", "Bridget", "Buster", "Wario", "Bo Noise", "Death of PizzaFuntime", "The Doise", "The Voice", "Ooise", "Peppino.xdelta", "Paper Noise", "Paper Mario", "Pizza Tower", "Scragfin", "Roise TV", "SERGEY", "Pebbino", "The Voise", "The Foise"
         ],
     "itemnames":
         [
@@ -25,11 +25,11 @@
         ],
     "numbers":
         [
-            "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40","41", "42", "43", "44", "45", "46", "47", "48", "49","50","51", "52", "53", "54", "55", "56", "57", "58", "59","60","61","62","63","64","65", "66", "67", "68", "69","70"
+            "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40","41", "42", "43", "44", "45", "46", "47", "48", "49","50","51", "52", "53", "54", "55", "56", "57", "58", "59","60","61","62","63","64","65", "66", "67", "68", "69","70"
         ],
     "numbers2":
         [
-            "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Woag"
+            "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Woag"
         ],
     "years":
         [
